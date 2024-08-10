@@ -2,7 +2,11 @@
 
 This tool converts PNG images to NanoPy sprite data for game development.
 
+![example](example.png)
+
 ## Setup
+
+This is assuming you have python running on your machine.
 
 1. Create virtual environment:
 
@@ -51,4 +55,4 @@ python test_sprite_extractor.py
 
 ### Example Image
 
-The example image included is reminescent of a famous video game character, but a new creation. It was created by [@Enderman55] (https://www.github.com/Enderman55).
+The example image included is reminescent of a famous video game character, but a new creation. It was created by [@Enderman55](https://www.github.com/Enderman55).
