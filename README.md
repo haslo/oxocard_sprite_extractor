@@ -4,6 +4,8 @@ This tool converts PNG images to NanoPy sprite data for game development.
 
 ![example](example.png)
 
+Check out the [Oxocard repo](https://github.com/oxocard) for what this is for.
+
 ## Setup
 
 This is assuming you have python running on your machine.
